@@ -32,9 +32,9 @@ class Footer extends Component
             </div>
             <ul className="flexbox-row-wrap">
                   <li className="flexbox-row-nowrap"style={{width:"max-content"}}>
-                     <a href="#"><img src={Facebook} alt="Facebook icon" style={{height:50,width:50}}/></a>
-                     <a href="#"><img src={Twitter} alt="twitter icon"style={{height:50,width:50}}/></a>
-                     <a href="#"><img src={Instagram} alt="Instagram icon"style={{height:50,width:50}}/></a>
+                     <a href="facebook.com"><img src={Facebook} alt="Facebook icon" style={{height:50,width:50}}/></a>
+                     <a href="twitter.com"><img src={Twitter} alt="twitter icon"style={{height:50,width:50}}/></a>
+                     <a href="instagram.com"><img src={Instagram} alt="Instagram icon"style={{height:50,width:50}}/></a>
                   </li>
             </ul>
             <p style={{width:"100vw"}}>&copy; Fitness {new Date().getFullYear()}</p>

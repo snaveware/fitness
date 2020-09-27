@@ -1,6 +1,5 @@
 import React,{Component} from 'react'
 import Header from './miniComponents/header'
-import Footer from './Footer'
 
 class About extends Component
 {

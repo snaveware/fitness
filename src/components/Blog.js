@@ -1,5 +1,5 @@
 import React,{Component} from 'react'
-import ShapeDivider from './assets/shape-divider.png'
+
 import Header from './miniComponents/header'
 
 class About extends Component
